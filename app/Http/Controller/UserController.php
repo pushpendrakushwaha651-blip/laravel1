@@ -208,7 +208,7 @@ public function login(Request $request)
         // Redirect to allusers page
         return redirect()->route('allusers');
     }
-
+// 
     // Invalid credentials
     return redirect()->back()->with('error', 'Invalid credentials');
 }
