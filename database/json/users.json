@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Pushpendra Kushwaha",
+    "age": 24,
+    "email": "pushpendra@example.com",
+    "address": "321 ashima Street",
+    "city": "Bhopal",
+    "phone": "123-456-7890",
+    "password": "password123 (hashed in Laravel, not shown here)",
+    "created_at": "2025-08-12T00:00:00Z",
+    "updated_at": "2025-08-12T00:00:00Z"
+  },
+  {
+    "name": "Jeevendra Kushwaha",
+    "age": 27,
+    "email": "jeevendra@example.com",
+    "address": "456 danish Street",
+    "city": "Bhopal",
+    "phone": "987-654-3210",
+    "password": "password123 (hashed in Laravel, not shown here)",
+    "created_at": "2025-08-12T00:00:00Z",
+    "updated_at": "2025-08-12T00:00:00Z"
+  },
+    {
+    "name": "Jamesh  ",
+    "age": 27,
+    "email": "jamesh@example.com",
+    "address": "451 danish Street",
+    "city": "jbl;",
+    "phone": "789-654-3210",
+    "password": "password123 (hashed in Laravel, not shown here)",
+    "created_at": "2025-08-12T00:00:00Z",
+    "updated_at": "2025-08-12T00:00:00Z"
+  }
+  
+]
