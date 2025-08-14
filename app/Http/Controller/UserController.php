@@ -210,7 +210,7 @@ public function login(Request $request)
     }
 
     // Invalid credentials
-    return redirect()->back()->with('error', 'Invalid credentials');
+    return redirect()->back()->with('error', 'Invalid cres');
 }
 
 
